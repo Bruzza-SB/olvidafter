@@ -1,0 +1,16 @@
+.project-text-inner-project-description h3{
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+
+.sidebar{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    color: #AA3939;
+    
+}
+.navbar-navbar-default-visible-xs{
+    font-family: 'Indie Flower', cursive;
+    font-size: 3rem;
+}
